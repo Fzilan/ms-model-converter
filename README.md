@@ -6,9 +6,10 @@ Exploration
 * mini-swe, with cluade-code-sonnet-4.5 model
 * Claude Code pack
 
-See the `mini-swe/` folder for the legacy mini-swe agent knowledgebase, conversion scripts and usage guides.
 
+```
 ms-model-converter/
 ├── mini-swe/           # mini-swe agent knowledgebase and configs
 ├── claude-code/        # self-contained claude-code packs for conversion
 └── README.md
+```
